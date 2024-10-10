@@ -1,3 +1,5 @@
+![Custom Banner](https://github.com/ashleyprado/ashleyprado/blob/main/B652C3B5-6664-47C6-B218-23756D6D274E.jpg?raw=true)
+
 # 👋 Hi, I'm Ashley Prado
 
 I'm a computer science student at Florida International University with a passion for embedded engineering, AI, and education. My goal is to leverage technology and programming skills to make a meaningful impact on learning and development.
