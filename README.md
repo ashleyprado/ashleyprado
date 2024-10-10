@@ -29,7 +29,9 @@ I'm a computer science student at Florida International University with a passio
 🌍 **Vision:**  
 Leveraging technology, programming, and AI to create impactful solutions in education and bridge the digital divide in communities worldwide.
 
-![Ashley Prado's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashleyprado&theme=jolly&show_icons=true)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ashleyprado&theme=jolly&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ashleyprado&theme=jolly&hide_border=false)<br/>
 
 # 💫 About Me:
 👩‍💻 **About Me**<br>
@@ -60,9 +62,6 @@ Leveraging technology, programming, and AI to create impactful solutions in educ
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ashleyprado&theme=jolly&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ashleyprado&theme=jolly&hide_border=false)<br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=jolly)
